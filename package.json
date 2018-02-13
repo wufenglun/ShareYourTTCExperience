@@ -1,0 +1,36 @@
+{
+  "name": "assignment-3-sunshineboys",
+  "version": "1.0.0",
+  "description": "<style> main {font-size: 1.5em;} li {margin-bottom: 10px;} </style> <main> <h1>Assignment 3</h1> <h2>Final Project</h2>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FallCSC309/assignment-3-sunshineboys.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FallCSC309/assignment-3-sunshineboys/issues"
+  },
+  "homepage": "https://github.com/FallCSC309/assignment-3-sunshineboys#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
+    "express-validator": "^4.3.0",
+    "method-override": "^2.3.10",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.13.5",
+    "morgan": "^1.9.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  }
+}
